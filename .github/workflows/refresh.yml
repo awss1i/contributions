@@ -1,0 +1,48 @@
+name: Refresh
+
+# Refreshes star counts from GitHub and rewrites README.md and repos/ every day,
+# and whenever the data or the scripts change.
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  push:
+    branches: [main]
+    paths: ["data/**", "bin/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Refresh, rebuild and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # If a push lands while this runs, the push is rejected, so start again from the new commit.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            python3 bin/refresh_stars.py
+            python3 bin/build.py
+            git add -A data README.md repos
+            if git diff --cached --quiet; then
+              echo "Nothing changed."
+              exit 0
+            fi
+            git commit -q -m "Refresh star counts and pages"
+            if git push; then
+              exit 0
+            fi
+            git fetch -q origin main
+            git reset -q --hard origin/main
+          done
+          echo "Gave up after 3 rejected pushes."
+          exit 1
