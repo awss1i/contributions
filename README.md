@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [Nautilus Trader](https://github.com/nautechsystems/nautilus_trader) | 32k | [5 contributions](repos/nautechsystems/nautilus_trader.md) | Oct 2026 |
 | [Nightscout](https://github.com/nightscout/cgm-remote-monitor) | 2.9k | [5 contributions](repos/nightscout/cgm-remote-monitor.md) | Oct 2026 |
-| [Auth0 PHP](https://github.com/auth0/auth0-PHP) | 410 | [5 contributions](repos/auth0/auth0-PHP.md) | Nov 2026 |
+| [Auth0 PHP](https://github.com/auth0/auth0-PHP) | 409 | [5 contributions](repos/auth0/auth0-PHP.md) | Nov 2026 |
 | [Caddy](https://github.com/caddyserver/caddy) | 79k | [4 contributions](repos/caddyserver/caddy.md) | Oct 2026 |
 | [UniGetUI](https://github.com/Devolutions/UniGetUI) | 27k | [4 contributions](repos/Devolutions/UniGetUI.md) | Oct 2026 |
 | [Kornia](https://github.com/kornia/kornia) | 12k | [4 contributions](repos/kornia/kornia.md) | Oct 2026 |
@@ -22,9 +22,9 @@
 | [OpenHands](https://github.com/OpenHands/OpenHands) | 94k | [2 contributions](repos/OpenHands/OpenHands.md) | Oct 2026 |
 | [Lichess](https://github.com/lichess-org/lila) | 19k | [2 contributions](repos/lichess-org/lila.md) | Oct 2026 |
 | [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 5.8k | [2 contributions](repos/rlaope/oh-my-hermes.md) | Sep 2026 |
-| [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | [2 contributions](repos/openfoodfacts/openfoodfacts-server.md) | Oct 2026 |
 | [rusEFI](https://github.com/rusefi/rusefi) | 1.2k | [2 contributions](repos/rusefi/rusefi.md) | Oct 2026 |
-| [Temps](https://github.com/gotempsh/temps) | 935 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
+| [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | [2 contributions](repos/openfoodfacts/openfoodfacts-server.md) | Oct 2026 |
+| [Temps](https://github.com/gotempsh/temps) | 939 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
 | [OpenBoxes](https://github.com/openboxes/openboxes) | 933 | [2 contributions](repos/openboxes/openboxes.md) | Oct 2026 |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 459k | [#70546](https://github.com/freeCodeCamp/freeCodeCamp/pull/70546) | Oct 2026 |
 | [Next.js](https://github.com/vercel/next.js) | 144k | [#99916](https://github.com/vercel/next.js/pull/99916) | Oct 2026 |

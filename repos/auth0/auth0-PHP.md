@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/awss1i">Awss</a> › <a href="../../README.md">Contributions [85]</a> › Auth0 PHP</p>
 
-<p align="center"><a href="https://github.com/auth0/auth0-PHP">auth0/auth0-PHP</a> · 410 stars · 5 contributions</p>
+<p align="center"><a href="https://github.com/auth0/auth0-PHP">auth0/auth0-PHP</a> · 409 stars · 5 contributions</p>
 
 ---
 
