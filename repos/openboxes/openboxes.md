@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/awss1i">Awss</a> › <a href="../../README.md">Contributions [85]</a> › OpenBoxes</p>
 
-<p align="center"><a href="https://github.com/openboxes/openboxes">openboxes/openboxes</a> · 934 stars · 2 contributions</p>
+<p align="center"><a href="https://github.com/openboxes/openboxes">openboxes/openboxes</a> · 935 stars · 2 contributions</p>
 
 ---
 

@@ -21,11 +21,11 @@
 | [Electron](https://github.com/electron/electron) | 124k | [2 contributions](repos/electron/electron.md) | Oct 2026 |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | 94k | [2 contributions](repos/OpenHands/OpenHands.md) | Oct 2026 |
 | [Lichess](https://github.com/lichess-org/lila) | 19k | [2 contributions](repos/lichess-org/lila.md) | Oct 2026 |
-| [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 5.8k | [2 contributions](repos/rlaope/oh-my-hermes.md) | Sep 2026 |
+| [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 5.9k | [2 contributions](repos/rlaope/oh-my-hermes.md) | Sep 2026 |
 | [rusEFI](https://github.com/rusefi/rusefi) | 1.2k | [2 contributions](repos/rusefi/rusefi.md) | Oct 2026 |
 | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | [2 contributions](repos/openfoodfacts/openfoodfacts-server.md) | Oct 2026 |
-| [Temps](https://github.com/gotempsh/temps) | 939 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
-| [OpenBoxes](https://github.com/openboxes/openboxes) | 934 | [2 contributions](repos/openboxes/openboxes.md) | Oct 2026 |
+| [Temps](https://github.com/gotempsh/temps) | 940 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
+| [OpenBoxes](https://github.com/openboxes/openboxes) | 935 | [2 contributions](repos/openboxes/openboxes.md) | Oct 2026 |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 459k | [#70546](https://github.com/freeCodeCamp/freeCodeCamp/pull/70546) | Oct 2026 |
 | [Next.js](https://github.com/vercel/next.js) | 144k | [#99916](https://github.com/vercel/next.js/pull/99916) | Oct 2026 |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 136k | [#30335](https://github.com/ggml-org/llama.cpp/pull/30335) | Nov 2026 |
