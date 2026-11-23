@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/awss1i">Awss</a> › <a href="../../README.md">Contributions [85]</a> › GLPI</p>
 
-<p align="center"><a href="https://github.com/glpi-project/glpi">glpi-project/glpi</a> · 6.6k stars · 3 contributions</p>
+<p align="center"><a href="https://github.com/glpi-project/glpi">glpi-project/glpi</a> · 6.7k stars · 3 contributions</p>
 
 ---
 

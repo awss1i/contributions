@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/awss1i">Awss</a> › <a href="../../README.md">Contributions [85]</a> › oh-my-hermes</p>
 
-<p align="center"><a href="https://github.com/rlaope/oh-my-hermes">rlaope/oh-my-hermes</a> · 5.9k stars · 2 contributions</p>
+<p align="center"><a href="https://github.com/rlaope/oh-my-hermes">rlaope/oh-my-hermes</a> · 6k stars · 2 contributions</p>
 
 ---
 

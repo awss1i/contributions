@@ -15,18 +15,18 @@
 | [Ente](https://github.com/ente/ente) | 30k | [3 contributions](repos/ente/ente.md) | Nov 2026 |
 | [Gutenberg](https://github.com/WordPress/gutenberg) | 12k | [3 contributions](repos/WordPress/gutenberg.md) | Oct 2026 |
 | [Foundry](https://github.com/foundry-rs/foundry) | 11k | [3 contributions](repos/foundry-rs/foundry.md) | Oct 2026 |
-| [GLPI](https://github.com/glpi-project/glpi) | 6.6k | [3 contributions](repos/glpi-project/glpi.md) | Sep 2026 |
+| [GLPI](https://github.com/glpi-project/glpi) | 6.7k | [3 contributions](repos/glpi-project/glpi.md) | Sep 2026 |
 | [CUBRID Cookbook](https://github.com/cubrid-lab/cubrid-cookbook-python) | 28 | [3 contributions](repos/cubrid-lab/cubrid-cookbook-python.md) | Sep 2026 |
 | [OpenClaw](https://github.com/openclaw/openclaw) | 395k | [2 contributions](repos/openclaw/openclaw.md) | Oct 2026 |
 | [Electron](https://github.com/electron/electron) | 124k | [2 contributions](repos/electron/electron.md) | Oct 2026 |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | 94k | [2 contributions](repos/OpenHands/OpenHands.md) | Oct 2026 |
 | [Lichess](https://github.com/lichess-org/lila) | 19k | [2 contributions](repos/lichess-org/lila.md) | Oct 2026 |
-| [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 5.9k | [2 contributions](repos/rlaope/oh-my-hermes.md) | Sep 2026 |
+| [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 6k | [2 contributions](repos/rlaope/oh-my-hermes.md) | Sep 2026 |
 | [rusEFI](https://github.com/rusefi/rusefi) | 1.2k | [2 contributions](repos/rusefi/rusefi.md) | Oct 2026 |
 | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | [2 contributions](repos/openfoodfacts/openfoodfacts-server.md) | Oct 2026 |
-| [Temps](https://github.com/gotempsh/temps) | 940 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
-| [OpenBoxes](https://github.com/openboxes/openboxes) | 935 | [2 contributions](repos/openboxes/openboxes.md) | Oct 2026 |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 459k | [#70546](https://github.com/freeCodeCamp/freeCodeCamp/pull/70546) | Oct 2026 |
+| [Temps](https://github.com/gotempsh/temps) | 942 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
+| [OpenBoxes](https://github.com/openboxes/openboxes) | 936 | [2 contributions](repos/openboxes/openboxes.md) | Oct 2026 |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 460k | [#70546](https://github.com/freeCodeCamp/freeCodeCamp/pull/70546) | Oct 2026 |
 | [Next.js](https://github.com/vercel/next.js) | 144k | [#99916](https://github.com/vercel/next.js/pull/99916) | Oct 2026 |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 136k | [#30335](https://github.com/ggml-org/llama.cpp/pull/30335) | Nov 2026 |
 | [Paperclip](https://github.com/paperclipai/paperclip) | 116k | [#15348](https://github.com/paperclipai/paperclip/pull/15348) | Nov 2026 |
@@ -39,7 +39,7 @@
 | [Termux Packages](https://github.com/termux/termux-packages) | 17k | [#31826](https://github.com/termux/termux-packages/pull/31826) | Sep 2026 |
 | [Raspberry Pi Linux](https://github.com/raspberrypi/linux) | 13k | [#7686](https://github.com/raspberrypi/linux/pull/7686) | Oct 2026 |
 | [F Prime](https://github.com/nasa/fprime) | 12k | [#6106](https://github.com/nasa/fprime/pull/6106) | Oct 2026 |
-| [OpenRig](https://github.com/mvschwarz/openrig) | 8.9k | [#817](https://github.com/mvschwarz/openrig/pull/817) | Oct 2026 |
+| [OpenRig](https://github.com/mvschwarz/openrig) | 9k | [#817](https://github.com/mvschwarz/openrig/pull/817) | Oct 2026 |
 | [Astropy](https://github.com/astropy/astropy) | 5.4k | [#20514](https://github.com/astropy/astropy/pull/20514) | Oct 2026 |
 | [java-tron](https://github.com/tronprotocol/java-tron) | 4.2k | [#7045](https://github.com/tronprotocol/java-tron/pull/7045) | Oct 2026 |
 | [Scoop Main](https://github.com/ScoopInstaller/Main) | 1.9k | [#8636](https://github.com/ScoopInstaller/Main/pull/8636) | Oct 2026 |
