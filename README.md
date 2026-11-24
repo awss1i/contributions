@@ -22,14 +22,14 @@
 | [OpenHands](https://github.com/OpenHands/OpenHands) | 94k | [2 contributions](repos/OpenHands/OpenHands.md) | Oct 2026 |
 | [Lichess](https://github.com/lichess-org/lila) | 19k | [2 contributions](repos/lichess-org/lila.md) | Oct 2026 |
 | [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 6k | [2 contributions](repos/rlaope/oh-my-hermes.md) | Sep 2026 |
-| [rusEFI](https://github.com/rusefi/rusefi) | 1.2k | [2 contributions](repos/rusefi/rusefi.md) | Oct 2026 |
 | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | [2 contributions](repos/openfoodfacts/openfoodfacts-server.md) | Oct 2026 |
-| [Temps](https://github.com/gotempsh/temps) | 942 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
-| [OpenBoxes](https://github.com/openboxes/openboxes) | 936 | [2 contributions](repos/openboxes/openboxes.md) | Oct 2026 |
+| [rusEFI](https://github.com/rusefi/rusefi) | 1.2k | [2 contributions](repos/rusefi/rusefi.md) | Oct 2026 |
+| [Temps](https://github.com/gotempsh/temps) | 943 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
+| [OpenBoxes](https://github.com/openboxes/openboxes) | 937 | [2 contributions](repos/openboxes/openboxes.md) | Oct 2026 |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 460k | [#70546](https://github.com/freeCodeCamp/freeCodeCamp/pull/70546) | Oct 2026 |
 | [Next.js](https://github.com/vercel/next.js) | 144k | [#99916](https://github.com/vercel/next.js/pull/99916) | Oct 2026 |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 136k | [#30335](https://github.com/ggml-org/llama.cpp/pull/30335) | Nov 2026 |
-| [Paperclip](https://github.com/paperclipai/paperclip) | 116k | [#15348](https://github.com/paperclipai/paperclip/pull/15348) | Nov 2026 |
+| [Paperclip](https://github.com/paperclipai/paperclip) | 117k | [#15348](https://github.com/paperclipai/paperclip/pull/15348) | Nov 2026 |
 | [Neovim](https://github.com/neovim/neovim) | 104k | [#42301](https://github.com/neovim/neovim/pull/42301) | Oct 2026 |
 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | 51k | [#124767](https://github.com/ClickHouse/ClickHouse/pull/124767) | Oct 2026 |
 | [Homebrew](https://github.com/Homebrew/brew) | 50k | [#24078](https://github.com/Homebrew/brew/pull/24078) | Sep 2026 |
