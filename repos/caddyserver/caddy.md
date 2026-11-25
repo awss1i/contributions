@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/awss1i">Awss</a> › <a href="../../README.md">Contributions [85]</a> › Caddy</p>
 
-<p align="center"><a href="https://github.com/caddyserver/caddy">caddyserver/caddy</a> · 79k stars · 4 contributions</p>
+<p align="center"><a href="https://github.com/caddyserver/caddy">caddyserver/caddy</a> · 80k stars · 4 contributions</p>
 
 ---
 
