@@ -12,7 +12,7 @@
 | [Kornia](https://github.com/kornia/kornia) | 12k | [4 contributions](repos/kornia/kornia.md) | Oct 2026 |
 | [PublishPress Capabilities](https://github.com/publishpress/publishpress-capabilities) | 15 | [4 contributions](repos/publishpress/publishpress-capabilities.md) | Nov 2026 |
 | [Azure Functions Validation](https://github.com/yeongseon/azure-functions-validation-python) | 13 | [4 contributions](repos/yeongseon/azure-functions-validation-python.md) | Oct 2026 |
-| [Ente](https://github.com/ente/ente) | 30k | [3 contributions](repos/ente/ente.md) | Nov 2026 |
+| [Ente](https://github.com/ente/ente) | 31k | [3 contributions](repos/ente/ente.md) | Nov 2026 |
 | [Gutenberg](https://github.com/WordPress/gutenberg) | 12k | [3 contributions](repos/WordPress/gutenberg.md) | Oct 2026 |
 | [Foundry](https://github.com/foundry-rs/foundry) | 11k | [3 contributions](repos/foundry-rs/foundry.md) | Oct 2026 |
 | [GLPI](https://github.com/glpi-project/glpi) | 6.7k | [3 contributions](repos/glpi-project/glpi.md) | Sep 2026 |
@@ -21,10 +21,10 @@
 | [Electron](https://github.com/electron/electron) | 124k | [2 contributions](repos/electron/electron.md) | Oct 2026 |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | 94k | [2 contributions](repos/OpenHands/OpenHands.md) | Oct 2026 |
 | [Lichess](https://github.com/lichess-org/lila) | 19k | [2 contributions](repos/lichess-org/lila.md) | Oct 2026 |
-| [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 6k | [2 contributions](repos/rlaope/oh-my-hermes.md) | Sep 2026 |
+| [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 6.1k | [2 contributions](repos/rlaope/oh-my-hermes.md) | Sep 2026 |
 | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | [2 contributions](repos/openfoodfacts/openfoodfacts-server.md) | Oct 2026 |
 | [rusEFI](https://github.com/rusefi/rusefi) | 1.2k | [2 contributions](repos/rusefi/rusefi.md) | Oct 2026 |
-| [Temps](https://github.com/gotempsh/temps) | 943 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
+| [Temps](https://github.com/gotempsh/temps) | 945 | [2 contributions](repos/gotempsh/temps.md) | Oct 2026 |
 | [OpenBoxes](https://github.com/openboxes/openboxes) | 938 | [2 contributions](repos/openboxes/openboxes.md) | Oct 2026 |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 460k | [#70546](https://github.com/freeCodeCamp/freeCodeCamp/pull/70546) | Oct 2026 |
 | [Next.js](https://github.com/vercel/next.js) | 144k | [#99916](https://github.com/vercel/next.js/pull/99916) | Oct 2026 |

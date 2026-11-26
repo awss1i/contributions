@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/awss1i">Awss</a> › <a href="../../README.md">Contributions [85]</a> › Ente</p>
 
-<p align="center"><a href="https://github.com/ente/ente">ente/ente</a> · 30k stars · 3 contributions</p>
+<p align="center"><a href="https://github.com/ente/ente">ente/ente</a> · 31k stars · 3 contributions</p>
 
 ---
 
