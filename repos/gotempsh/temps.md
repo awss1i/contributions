@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/awss1i">Awss</a> › <a href="../../README.md">Contributions [85]</a> › Temps</p>
 
-<p align="center"><a href="https://github.com/gotempsh/temps">gotempsh/temps</a> · 945 stars · 2 contributions</p>
+<p align="center"><a href="https://github.com/gotempsh/temps">gotempsh/temps</a> · 944 stars · 2 contributions</p>
 
 ---
 
